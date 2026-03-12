@@ -32,4 +32,6 @@ All projects are built to run seamlessly on Google Colab or local Python environ
 1. Clone this repository:
    ```bash
    git clone [https://github.com/your-username/CodeAlpha_Tasks.git](https://github.com/your-username/CodeAlpha_Tasks.git)
+
+   pip install gradio sentence-transformers scikit-learn pandas ultralytics opencv-python deep-translator
    
